@@ -25,3 +25,7 @@ build
 project.properties
 
 assets/2048/*
+node_modules/
+dist/
+expo-env.d.ts
+.expo/
